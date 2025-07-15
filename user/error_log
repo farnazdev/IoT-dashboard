@@ -1,0 +1,121 @@
+[21-Dec-2024 14:55:45 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/setting.php on line 21
+[21-Dec-2024 14:55:45 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/setting.php on line 26
+[18-Mar-2025 12:50:40 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/wil/informationID.php?id=1202): failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable
+ in /home3/avahivai/public_html/dashboard/user/setting.php on line 4
+[24-Apr-2025 09:34:11 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$minE in /home3/avahivai/public_html/dashboard/user/index.php on line 539
+[24-Apr-2025 09:34:11 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$maxE in /home3/avahivai/public_html/dashboard/user/index.php on line 540
+[24-Apr-2025 09:34:11 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$enE in /home3/avahivai/public_html/dashboard/user/index.php on line 541
+[24-Apr-2025 09:43:09 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$minC in /home3/avahivai/public_html/dashboard/user/index.php on line 539
+[24-Apr-2025 09:43:09 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$maxC in /home3/avahivai/public_html/dashboard/user/index.php on line 540
+[24-Apr-2025 09:43:09 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$enC in /home3/avahivai/public_html/dashboard/user/index.php on line 541
+[24-Apr-2025 09:43:09 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$enDevice in /home3/avahivai/public_html/dashboard/user/index.php on line 542
+[24-Apr-2025 09:43:09 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$minB in /home3/avahivai/public_html/dashboard/user/index.php on line 539
+[24-Apr-2025 09:43:09 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$maxB in /home3/avahivai/public_html/dashboard/user/index.php on line 540
+[24-Apr-2025 09:43:09 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$enB in /home3/avahivai/public_html/dashboard/user/index.php on line 541
+[24-Apr-2025 09:43:09 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$enDevice in /home3/avahivai/public_html/dashboard/user/index.php on line 542
+[24-Apr-2025 09:44:45 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$minE in /home3/avahivai/public_html/dashboard/user/index.php on line 539
+[24-Apr-2025 09:44:45 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$maxE in /home3/avahivai/public_html/dashboard/user/index.php on line 540
+[24-Apr-2025 09:44:45 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$enE in /home3/avahivai/public_html/dashboard/user/index.php on line 541
+[24-Apr-2025 09:47:02 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$minE in /home3/avahivai/public_html/dashboard/user/index.php on line 539
+[24-Apr-2025 09:47:02 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$maxE in /home3/avahivai/public_html/dashboard/user/index.php on line 540
+[24-Apr-2025 09:47:02 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$enE in /home3/avahivai/public_html/dashboard/user/index.php on line 541
+[24-Apr-2025 09:48:27 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$minE in /home3/avahivai/public_html/dashboard/user/index.php on line 539
+[24-Apr-2025 09:48:27 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$maxE in /home3/avahivai/public_html/dashboard/user/index.php on line 540
+[24-Apr-2025 09:48:27 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$enE in /home3/avahivai/public_html/dashboard/user/index.php on line 541
+[24-Apr-2025 09:49:57 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$minF in /home3/avahivai/public_html/dashboard/user/index.php on line 539
+[24-Apr-2025 09:49:57 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$maxF in /home3/avahivai/public_html/dashboard/user/index.php on line 540
+[24-Apr-2025 09:49:57 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$enF in /home3/avahivai/public_html/dashboard/user/index.php on line 541
+[24-Apr-2025 09:50:26 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$minF in /home3/avahivai/public_html/dashboard/user/index.php on line 539
+[24-Apr-2025 09:50:26 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$maxF in /home3/avahivai/public_html/dashboard/user/index.php on line 540
+[24-Apr-2025 09:50:26 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$enF in /home3/avahivai/public_html/dashboard/user/index.php on line 541
+[24-Apr-2025 09:51:33 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$minE in /home3/avahivai/public_html/dashboard/user/index.php on line 539
+[24-Apr-2025 09:51:33 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$maxE in /home3/avahivai/public_html/dashboard/user/index.php on line 540
+[24-Apr-2025 09:51:33 Asia/Tehran] PHP Notice:  Undefined property: stdClass::$enE in /home3/avahivai/public_html/dashboard/user/index.php on line 541
+[03-May-2025 14:59:56 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/DashManage/label.php?id=17): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home3/avahivai/public_html/dashboard/user/setting.php on line 33
+[30-May-2025 03:09:02 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 03:09:23 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 03:09:26 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 03:09:32 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 03:09:45 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 03:10:20 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 03:10:32 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 03:10:33 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 03:10:34 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 03:10:46 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 03:11:16 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 03:11:36 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 08:05:38 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 09:22:14 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 13:15:53 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 13:16:59 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 13:20:54 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 14:14:37 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[30-May-2025 14:14:53 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.ph[08-Jun-2025 12:28:26 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[08-Jun-2025 12:29:55 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[08-Jun-2025 12:29:55 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[08-Jun-2025 12:30:28 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[08-Jun-2025 12:30:42 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home3/avahivai/public_html/dashboard/user/setting.php on line 4
+[08-Jun-2025 12:30:42 Asia/Tehran] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/avahivai/public_html/dashboard/user/setting.php on line 4
+[08-Jun-2025 12:30:42 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/wil/informationID.php?id=465): failed to open stream: operation failed in /home3/avahivai/public_html/dashboard/user/setting.php on line 4
+[08-Jun-2025 12:30:42 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/property/user-check.php?usr=): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 7
+[08-Jun-2025 12:30:42 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/ALR/wil/Edit-configAPI.php?id=465): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 13
+[08-Jun-2025 12:30:42 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/setting.php on line 19
+[08-Jun-2025 12:30:42 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/DashManage/label.php?id=465): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 33
+[08-Jun-2025 12:30:42 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/DashManage/updateLabel.php): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 95
+[08-Jun-2025 12:30:43 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/DashManage/updateLabel.php): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 130
+[08-Jun-2025 12:30:43 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/DashManage/updateLabel.php): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 148
+[08-Jun-2025 12:30:43 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/DashManage/updateLabel.php): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 166
+[08-Jun-2025 12:30:43 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/ALR/wil/configAPI.php?id=465&amp;tkn=kwcbm12wh85j&amp;mina=&amp;maxa=&amp;minb=&amp;maxb=&amp;minc=&amp;maxc=&amp;mind=&amp;maxd=): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 411
+[08-Jun-2025 12:31:18 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/wil/informationID.php?id=465): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 4
+[08-Jun-2025 12:31:18 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/property/user-check.php?usr=): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 7
+[08-Jun-2025 12:31:18 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/ALR/wil/Edit-configAPI.php?id=465): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 13
+[08-Jun-2025 12:31:18 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/setting.php on line 19
+[08-Jun-2025 12:31:18 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/DashManage/label.php?id=465): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 33
+[08-Jun-2025 12:31:20 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/wil/informationID.php?id=465): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 4
+[08-Jun-2025 12:31:20 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/property/user-check.php?usr=): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 7
+[08-Jun-2025 12:31:20 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/ALR/wil/Edit-configAPI.php?id=465): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 13
+[08-Jun-2025 12:31:20 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/setting.php on line 19
+[08-Jun-2025 12:31:21 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/DashManage/label.php?id=465): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 33
+[08-Jun-2025 12:31:36 Asia/Tehran] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home3/avahivai/public_html/dashboard/user/setting.php on line 4
+[08-Jun-2025 12:31:36 Asia/Tehran] PHP Warning:  file_get_contents(): Failed to enable crypto in /home3/avahivai/public_html/dashboard/user/setting.php on line 4
+[08-Jun-2025 12:31:36 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/wil/informationID.php?id=465): failed to open stream: operation failed in /home3/avahivai/public_html/dashboard/user/setting.php on line 4
+[08-Jun-2025 12:31:36 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/property/user-check.php?usr=): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 7
+[08-Jun-2025 12:31:36 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/ALR/wil/Edit-configAPI.php?id=465): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 13
+[08-Jun-2025 12:31:36 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/setting.php on line 19
+[08-Jun-2025 12:31:36 Asia/Tehran] PHP Warning:  file_get_contents(https://hivaind.ir/DashManage/label.php?id=465): failed to open stream: Connection refused in /home3/avahivai/public_html/dashboard/user/setting.php on line 33
+[08-Jun-2025 12:32:33 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[08-Jun-2025 12:33:33 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[08-Jun-2025 12:34:33 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[08-Jun-2025 12:41:22 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[08-Jun-2025 12:52:28 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[08-Jun-2025 12:57:06 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[13-Jun-2025 10:54:02 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[13-Jun-2025 11:03:08 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[13-Jun-2025 11:03:29 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on l[14-Jun-2025 11:48:52 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[14-Jun-2025 11:49:07 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[14-Jun-2025 12:49:52 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[14-Jun-2025 12:51:11 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[14-Jun-2025 13:03:57 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 22
+[14-Jun-2025 13:07:16 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:08:25 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:08:52 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:09:02 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:09:47 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:10:17 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:10:39 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:12:33 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:12:33 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:12:43 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:13:30 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:15:33 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:21:14 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:32:33 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:35:37 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[14-Jun-2025 13:41:54 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[18-Jun-2025 17:49:28 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[18-Jun-2025 18:34:05 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[19-Jun-2025 14:25:06 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[20-Jun-2025 19:54:07 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[28-Jun-2025 15:12:24 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home3/avahivai/public_html/dashboard/user/index.php on line 23
+[28-Jun-2025 15:16:51 Asia/Tehran] PHP W

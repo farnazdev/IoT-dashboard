@@ -1,0 +1,22 @@
+.bg{
+    /* background-color: #f7f1e4; */
+    /* background: linear-gradient(to top, #f7f1e4 50%, #f7bd7b 50%); */
+    background: linear-gradient(to bottom,  #f7bd7b 20%,#f7bd7b 30%,#f7f1e4 30%) fixed; 
+}
+.bg-green{
+    background-color: #12b07b;
+}
+
+
+.green{
+    background-color: #12b07b;
+} 
+
+#idfirst{
+    display: none;
+}
+
+.margintoppp{
+    margin-top: 80px;
+}
+

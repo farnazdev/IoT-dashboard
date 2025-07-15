@@ -1,0 +1,9 @@
+[28-Sep-2024 15:06:22 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/avahivai/public_html/dashboard/pardakht/Request.php:36) in /home3/avahivai/public_html/dashboard/pardakht/Request.php on line 43
+[28-Sep-2024 15:06:39 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/avahivai/public_html/dashboard/pardakht/Request.php:36) in /home3/avahivai/public_html/dashboard/pardakht/Request.php on line 43
+[28-Sep-2024 15:10:03 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/avahivai/public_html/dashboard/pardakht/Request.php:36) in /home3/avahivai/public_html/dashboard/pardakht/Request.php on line 43
+[28-Sep-2024 15:10:12 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/avahivai/public_html/dashboard/pardakht/Request.php:36) in /home3/avahivai/public_html/dashboard/pardakht/Request.php on line 43
+[28-Sep-2024 15:10:41 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/avahivai/public_html/dashboard/pardakht/Request.php:35) in /home3/avahivai/public_html/dashboard/pardakht/Request.php on line 42
+[18-Mar-2025 08:48:41 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/avahivai/public_html/dashboard/pardakht/verify.php:155
+Stack trace:
+#0 {main}
+  thrown in /home3/avahivai/public_html/dashboard/pardakht/verify.php on line 155
